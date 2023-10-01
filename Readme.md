@@ -1,6 +1,6 @@
 # DSA - Outline 
 
-- Array
+- [Array](https://github.com/dmrishabh/DSA-JS/tree/main/Array)
 - Link list
 - Stack
 - Queue
